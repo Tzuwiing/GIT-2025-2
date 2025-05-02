@@ -1,4 +1,6 @@
-import FotoWildan from "./assets/PotoWildan.jpg"
+import FotoWildan from "./assets/PotoWildan.jpg";
+import FotoFathan from "./assets/asoy.jpg";
+import fotoFadgham from "./assets/fotoFadgham.jpg";
 
 export default function App() {
   return (
