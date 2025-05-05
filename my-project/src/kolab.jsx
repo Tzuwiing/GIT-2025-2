@@ -1,5 +1,5 @@
 import FotoWildan from "./assets/PotoWildan.jpg";
-import FotoFathan from "./assets/asoy.jpg";
+import FotoFathan from "./assets/8.jpg";
 import fotoFadgham from "./assets/fotoFadgham.jpg";
 
 export default function App() {
